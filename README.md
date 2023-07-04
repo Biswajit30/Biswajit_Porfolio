@@ -1,10 +1,8 @@
-# Portfolio - Devesh Verma
+# Portfolio - Biswajit Jena
 
-This is the repository for my portfolio website. The portfolio showcases my skills, projects, and achievements. It serves as a central hub for potential employers, clients, or collaborators to learn more about Devesh Verma's work and get in touch.
+This is the repository for my portfolio website. The portfolio showcases my skills, projects, and achievements. It serves as a central hub for potential employers, clients, or collaborators to learn more about Biswajit Jena's work and get in touch.
 
-## Live Demo
 
-A live demo of the portfolio website can be accessed [here](https://dev-deveshverma.github.io/portfolio_devesh_verma/).
 
 ## Technologies Used
 
@@ -33,4 +31,4 @@ To run the portfolio website locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dev-deveshverma/portfolio_devesh_verma.git
+   
