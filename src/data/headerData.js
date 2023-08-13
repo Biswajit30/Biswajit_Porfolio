@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/resumeP.pdf'
+import resume from '../assets/pdf/Biswajit_React(2.4)Yr.nf.pdf';
 import  Biswajit  from '../jpg/newBisu.jpg'
 export const headerData = {
     name: 'Biswajit Jena',
